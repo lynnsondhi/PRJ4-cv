@@ -23,6 +23,10 @@ body {
 	background-color: #E8E0D2;
 }
 
+h2 {
+	font-family: "Yeseva One", serif;
+}
+
 .resume-main {
 	background-color: #fffefc;
 }
@@ -54,4 +58,8 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+.language-level {
+	border-color: brown !important;
+		
 }
